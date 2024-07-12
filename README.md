@@ -14,7 +14,7 @@
 <a href="https://github.com/Ahmed-W-Rabea" target="_blank">
 <img src="https://camo.githubusercontent.com/87c8238……653d706…" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" style="max-width: 100%;"/>
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-wael-rabea-095b74221/](https://www.linkedin.com/in/ahmed-wael-rabea-095b74221/" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-wael-rabea-095b74221/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BN8Hvtc3MSf21wdSTF996RA%3D%3D" target="_blank">
 <img src="https://camo.githubusercontent.com/e9936ff……706c617…" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" style="max-width: 100%;"/>
 </a>  
   
