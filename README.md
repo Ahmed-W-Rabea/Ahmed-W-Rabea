@@ -82,7 +82,6 @@
 
 
 ## Github Stats  
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-W-Rabea
@@ -93,7 +92,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-W-Rabea
 &hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>    
 
 <br/>  
 
