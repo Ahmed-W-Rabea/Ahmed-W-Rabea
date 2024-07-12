@@ -29,7 +29,7 @@
 <br/>  
 
 
-## Rapidfire  
+## More about me...  
 <table><tr><td valign="top" width="50%">
 
 - 🎓 Faculty of Computers & Informatics at Suez Canal University.   
