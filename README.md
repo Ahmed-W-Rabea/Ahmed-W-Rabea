@@ -8,7 +8,7 @@
 
 ### Connect with me...  
 <a href="mailto:ahmedwael11425@gmail.com">
-<img src="https://camo.githubusercontent.com/eaac252d0e3c7c287b34bd1db467a8953d908fa88ab4d11deae8aee89ff145c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://camo.githubusercontent.com/eaac252d0e3c7c287b34bd1db467a8953d908fa88ab4d11deae8aee89ff145c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://github.com/Ahmed-W-Rabea" target="_blank">
