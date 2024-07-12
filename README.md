@@ -82,12 +82,18 @@
 
 
 ## Github Stats  
-<p align="center" dir="auto">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://camo.githubusercontent.com/c0516ae17b9c01c5a6cbc75ee8a433eee1c7b30e1c15e13b03ea8823d7c3cc83/68747470733a2f2f6769746875622d726561646d652d73746174732d6d61686d6f75642d61686d6564732d70726f6a656374732d37343233323666362e76657263656c2e6170702f6170693f757365726e616d653d4d61686d6f7564416275656c617a6d26686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526686964653d636f6e74726962732c69737375657326636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d7265616374266c6f63616c653d656e26686964655f626f726465723d66616c7365266f726465723d3226696e636c7564655f616c6c5f636f6d6d6974733d747275652673686f773d726576696577732c7072735f6d65726765642c7072735f6d65726765645f70657263656e74616765" height="180" alt="stats graph" data-canonical-src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=Ahmed-W-Rabea;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;hide=contribs,issues&amp;count_private=true&amp;disable_animations=false&amp;theme=react&amp;locale=en&amp;hide_border=false&amp;order=2&amp;include_all_commits=true&amp;show=reviews,prs_merged,prs_merged_percentage" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/c97154574e9c305a7fd77ce3a586b64bfe479e4c744c522bc297290110bdc55a/68747470733a2f2f6769746875622d726561646d652d73746174732d6d61686d6f75642d61686d6564732d70726f6a656374732d37343233323666362e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4d61686d6f7564416275656c617a6d266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d726561637426686964655f626f726465723d66616c7365266f726465723d32" height="180" alt="languages graph" data-canonical-src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api/top-langs?username=Ahmed-W-Rabea;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=react&amp;hide_border=false&amp;order=2" style="max-width: 100%;">
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-</a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-W-Rabea
+&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-W-Rabea
+&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
