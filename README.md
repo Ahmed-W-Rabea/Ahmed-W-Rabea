@@ -7,8 +7,7 @@
 
 
 ### Connect with me...  
-<a href="ahmedwael11425@gmail.com">…</a>
-<img src="https://camo.githubusercontent.com/eaac252……6c653d7…" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" style="max-width: 100%;">
+
 <a href="https://github.com/Ahmed-W-Rabea" target="_blank"><a href="mailto:mahmoudabuelazem2467@gmail.com">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
