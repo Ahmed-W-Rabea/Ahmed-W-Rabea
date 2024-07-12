@@ -1,4 +1,4 @@
-<img src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&ehk=NNfOMQ6dfiA3eWWZAhI73QT3tX1lMjqFSSH4bXYrTAo%3d" align="left" height="500" width="1000" />  
+<img src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&ehk=NNfOMQ6dfiA3eWWZAhI73QT3tX1lMjqFSSH4bXYrTAo%3d" align="left" height="" width="700" />  
   
 
 ## <div align="center">Hey 👋, I'm Ahmed Wael!</div>  
@@ -7,8 +7,7 @@
 
 
 ### Connect with me...  
-
-<a href="https://github.com/Ahmed-W-Rabea" target="_blank"><a href="mailto:mahmoudabuelazem2467@gmail.com">
+<a href="https://github.com/Ahmed-W-Rabea" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-wael-rabea-095b74221/" target="_blank">
