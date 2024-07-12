@@ -23,7 +23,7 @@
 
 ### Glad to see you here!  
  I'm a Mobile App Developer who uses Flutter, I've worked on many projects which depends on important skills as (state management - clean architecture - firebase - etc....).
- I've been learning UI/UX and other programming languages (mentioned 👇)  
+ I've been learning UI/UX and other programming languages (some are mentioned 👇)  
   
 
 <br/>  
